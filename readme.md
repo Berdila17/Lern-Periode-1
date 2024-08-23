@@ -1,21 +1,22 @@
-# Lern-Periode 5
+# Lern-Periode 1
 
-23.4 bis 25.6.2024
+23.8 bis 15.10.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP5?
+1. Momentan versuche ich in allen Modulen das beste rauszuholen.
+4. Ein *geeigenetes* Projekt wäre etwas nicht so schweres für den Anfang. Ich denke ein einfacher Taschenrechner wäre ein geeigntes dafür.
 
-## 23.4.2024
+## 23.8.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich github angeschaut.
 
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Den PAP auf PAP Designer für den Überblick erstellen.(Algorithmus Planen)
+- [ ] Projekt in Visual Studio einrichten. Rechrechieren wie ich Sachen implentieren kann, Vorgehensweise usw.
+- [ ] Die Benutzereingabe und Benutzerausgabe implentieren
+- [ ] Addition implentieren, falls es noch geht Subtraktion
 
 ✍️ Heute habe ich... (50-100 Wörter)
 

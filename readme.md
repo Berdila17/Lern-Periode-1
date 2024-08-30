@@ -14,10 +14,15 @@
 ## 30.4.2024
 
 - [x] Den PAP auf PAP Designer für den Überblick erstellen.(Algorithmus Planen)
-- [ ] Projekt in Visual Studio einrichten. Rechrechieren wie ich Sachen implentieren kann, Vorgehensweise usw.
+- [x] Projekt in Visual Studio einrichten. Rechrechieren wie ich Sachen implentieren kann, Vorgehensweise usw.
 - [ ] Die Benutzereingabe und Benutzerausgabe implentieren
 - [ ] Addition implentieren, falls es noch geht Subtraktion
 
-✍️ Heute habe ich... (50-100 Wörter)
+Auf Pap Designer einen Ablauf für den Taschenrechner erstellt damit es viel übersichtlicher wird wie man vorgeht und Das Projekt eingerichtet dazu habe ich viele Youtube Videos über die implentation von Operatoren zum schluss hab ich noch mit der Implentation von Benutzereingabe und Benutzerausgabe angefangen.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 6.9.2024
+
+- [ ] Benutzereingabe und Benutzerausgabe fertig implentiere
+- [ ] Addition Implentiere
+- [ ] Subtraktion implentieren
+- [ ] Multiplikation implentiere

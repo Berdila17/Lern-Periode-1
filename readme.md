@@ -13,7 +13,7 @@
 
 ## 30.4.2024
 
-- [ ] Den PAP auf PAP Designer für den Überblick erstellen.(Algorithmus Planen)
+- [x] Den PAP auf PAP Designer für den Überblick erstellen.(Algorithmus Planen)
 - [ ] Projekt in Visual Studio einrichten. Rechrechieren wie ich Sachen implentieren kann, Vorgehensweise usw.
 - [ ] Die Benutzereingabe und Benutzerausgabe implentieren
 - [ ] Addition implentieren, falls es noch geht Subtraktion

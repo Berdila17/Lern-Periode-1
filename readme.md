@@ -22,6 +22,15 @@ Auf Pap Designer einen Ablauf für den Taschenrechner erstellt damit es viel üb
 
 ## 6.9.2024
 
-- [ ] Potenzen implentieren
-- [ ] Wurzeln implentieren
+- [x] Operatoren implentieren 
+- [X] Potenzen implentieren
+- [X] Wurzeln implentieren
 
+Heute hab ich die Operatoren, Addition,Subtraktion,Multiplikation,Division,Potenzen und Wurzeln implentiert das mit der Addition,Subtraktion,Multiplikation und Division hat gut geklappt hatte also da nicht so grosse Schwierigkeiten aber mit der Potenzen und Wurzeln hatte ich Mühe beim Youtube Videos dazu schauen hat nichts gebracht aber dann beim tief graben hab ich ein Video gefunden das mir geholfen hat.
+
+## 13.9.2024
+
+- [ ] Verlauf implentieren von Taschenrechner
+- [ ] Speicherfunktion implentieren
+- [ ] Prozentrechnen implentieren
+- [ ] Den Code optimieren also einfacher halten etc.

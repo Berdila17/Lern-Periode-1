@@ -22,7 +22,6 @@ Auf Pap Designer einen Ablauf für den Taschenrechner erstellt damit es viel üb
 
 ## 6.9.2024
 
-- [ ] Benutzereingabe und Benutzerausgabe fertig implentiere
-- [ ] Addition Implentiere
-- [ ] Subtraktion implentieren
-- [ ] Multiplikation implentiere
+- [ ] Potenzen implentieren
+- [ ] Wurzeln implentieren
+

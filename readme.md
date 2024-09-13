@@ -30,7 +30,16 @@ Heute hab ich die Operatoren, Addition,Subtraktion,Multiplikation,Division,Poten
 
 ## 13.9.2024
 
-- [ ] Verlauf implentieren von Taschenrechner
+- [x] Verlauf implentieren von Taschenrechner
 - [ ] Speicherfunktion implentieren
 - [ ] Prozentrechnen implentieren
 - [ ] Den Code optimieren also einfacher halten etc.
+
+Heute habe ich mich mit dem Verlauf auseinander gesetzt. Ich habe richtig viel darüber recherchiert aber nichts darüber gefunden am Anfang dann hab ich ChatGBT nach Hilfe gefragt und habe ihm auch gesagt das er mir diese Schritte erklären soll. Mit der Implentation von der Speicherfunktion hab ich auch angefangen zu recherchieren so das ich nächstes mal direkt damit anfangen kann. Die Zeit die ich ein bisschen verloren habe war mit der Recherche von Verlauf implentation da ich nicht viel Gefunden habe.
+
+## 20.9.2024
+
+- [ ] Speicherfunktion fertig implentieren
+- [ ] Prozentrechnen implentieren
+- [ ] Code optimieren einfacher halten vllt
+- [ ] Finale TESTS

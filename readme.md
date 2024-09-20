@@ -50,3 +50,8 @@ Ich habe ein Taschenrechner programmiert der Addieren,Subtrahieren,Multipliziere
 Zusätzlich kann es noch Resulate speichern und den Verlauf anzeigen!
 
 ![lp1](https://github.com/user-attachments/assets/170d4ede-0d55-46cd-b533-dd99db5e5cec)
+
+
+## Reflexion
+
+Die erste Lernperiode war eine besondere Erfahrung da ich vor der IMS keine erfahrung mit programmieren hatte und ich jetzt das Gefühl habe das ich einigermassen ein Grundlage habe um Sachen in Programmen zu verstehen. Meistens habe ich versucht die Sachen mithilfe von Youtube, Google und ChatGBT zu programmieren (selbstständig nach Lösungen suchen.) In der nächsten Lernperiode möchte mehr versuchen zu arbeiten sodass ich nicht so viel Hilfe von diese Programme brauche aber falls es notwendig ist tu ich das und lerne etwas dabei.Ablenkungen und etc. hab ich gemeidet und habe versucht aus jeder Sitzung das beste rauszuholen. Ich habe aber insgesamt Sachen wie if return gelernt und Sachen die ich aus Modul 319 gelernt habe eingesetzt wie zum Beispiel Variablen deklarieren.

@@ -39,7 +39,7 @@ Heute habe ich mich mit dem Verlauf auseinander gesetzt. Ich habe richtig viel d
 
 ## 20.9.2024
 
-- [ ] Speicherfunktion fertig implentieren
+- [x] Speicherfunktion fertig implentieren
 - [ ] Prozentrechnen implentieren
 - [ ] Code optimieren einfacher halten vllt
 - [ ] Finale TESTS

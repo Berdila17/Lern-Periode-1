@@ -40,6 +40,13 @@ Heute habe ich mich mit dem Verlauf auseinander gesetzt. Ich habe richtig viel d
 ## 20.9.2024
 
 - [x] Speicherfunktion fertig implentieren
-- [ ] Prozentrechnen implentieren
+- [x] Prozentrechnen implentieren
 - [ ] Code optimieren einfacher halten vllt
 - [ ] Finale TESTS
+
+## fertiges Projekt
+
+Ich habe ein Taschenrechner programmiert der Addieren,Subtrahieren,Multiplizieren,Dividieren, Potenz rechnen, Wurzel ziehen, Prozentrechnen kann.
+Zusätzlich kann es noch Resulate speichern und den Verlauf anzeigen!
+
+![lp1](https://github.com/user-attachments/assets/170d4ede-0d55-46cd-b533-dd99db5e5cec)

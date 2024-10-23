@@ -1,0 +1,95 @@
+using System;
+using System.Collections.Generic;
+using System.Data;
+
+class Program
+{
+    static List<string> verlauf = new List<string>(); 
+
+    static void Main()
+    {
+        Console.WriteLine("Willkommen beim erweiterten Taschenrechner!");
+
+        bool continueCalculating = true;
+
+        while (continueCalculating)
+        {
+            string input = GetInputFromUser("Geben Sie einen mathematischen Ausdruck ein: ");
+
+            try
+            {
+                double result = CalculateExpression(input);
+                Console.WriteLine($"Ergebnis: {result}");
+                verlauf.Add($"{input} = {result}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Fehler bei der Berechnung: {ex.Message}");
+            }
+
+            continueCalculating = AskForAnotherCalculation();
+        }
+
+        ShowCourse();
+        Console.WriteLine("Danke fürs Benutzen des erweiterten Taschenrechners. Auf Wiedersehen!");
+    }
+
+    static string GetInputFromUser(string prompt)
+    {
+        Console.Write(prompt);
+        return Console.ReadLine();
+    }
+
+
+    static double CalculateExpression(string expression)
+    {
+        DataTable calculator = new DataTable();
+        object resultObject = calculator.Compute(expression, null);
+        return Convert.ToDouble(resultObject);
+    }
+
+
+    static bool AskForAnotherCalculation()
+    {
+        while (true)
+        {
+            Console.Write("Möchten Sie eine weitere Berechnung durchführen oder den Verlauf anzeigen? (ja/nein/verlauf): ");
+            string response = Console.ReadLine().ToLower();
+
+            if (response == "ja")
+            {
+                return true;
+            }
+            else if (response == "nein")
+            {
+                return false;
+            }
+            else if (response == "verlauf")
+            {
+                ShowCourse();
+                continue;
+            }
+            else
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte geben Sie 'ja', 'nein' oder 'verlauf' ein.");
+            }
+        }
+    }
+
+
+    static void ShowCourse()
+    {
+        Console.WriteLine("Verlauf der Berechnungen:");
+        if (verlauf.Count == 0)
+        {
+            Console.WriteLine("Noch keine Berechnungen durchgeführt.");
+        }
+        else
+        {
+            foreach (string entry in verlauf)
+            {
+                Console.WriteLine(entry);
+            }
+        }
+    }
+}
